@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer w
 
 - [LinkedIn](https://www.linkedin.com/in/mayuresh-yewale/)
 - [Twitter](https://twitter.com/yourusername)
-- [Kaggle](https://www.kaggle.com/yourusername)
+- [Kaggle](https://www.kaggle.com/mayureshyewale)
 - [Medium](https://medium.com/@yourusername)
 
 ## 💡 Support My Work
