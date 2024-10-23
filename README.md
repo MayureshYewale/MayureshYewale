@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer w
 - 🔭 Currently working on innovative data science and NLP projects.
 - 🌱 Learning and experimenting with the latest machine learning and NLP techniques.
 - 💬 Ask me about Python, machine learning, natural language processing, and data visualization.
-- 📫 Reach me at [mayureshyewale01@gmail.com](mailto:your.email@example.com).
+- 📫 Reach me at [mayureshyewale01@gmail.com](mailto:mayureshyewale01@gmail.com).
 
 ## 🛠️ Technologies & Tools
 
@@ -36,33 +36,4 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer w
 
 ## 🚀 Projects
 
-- **[Project 1: Title](https://github.com/yourusername/project1)**  
-  Brief description of your project, highlighting key achievements and technologies used.
-
-- **[Project 2: Title](https://github.com/yourusername/project2)**  
-  Brief description of your project, highlighting key achievements and technologies used.
-
-- **[Project 3: Title](https://github.com/yourusername/project3)**  
-  Brief description of your project, highlighting key achievements and technologies used.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
-
-## 🌐 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/mayuresh-yewale)
-- [Twitter](https://twitter.com/yourusername)
-- [Kaggle](https://www.kaggle.com/yourusername)
-- [Medium](https://medium.com/@yourusername)
-
-## 💡 Support My Work
-
-If you appreciate my work, consider supporting me with a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"> 
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50">
-</a>
+- **[
