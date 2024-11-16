@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer w
 - **[Card Fraud Detection (Machine Learning)](https://github.com/yourusername/card-fraud-detection)**  
   Developed a machine learning model to detect fraudulent credit card transactions. The project involved data preprocessing, feature selection, and building a classification model using **Scikit-learn** and **XGBoost**, achieving high accuracy in fraud detection.
 
-- **[COVID-19 Analysis (Power BI)](https://github.com/yourusername/covid-19-analysis)**  
+- **[COVID-19 Analysis (Power BI)](https://github.com/MayureshYewale/Covid-19)**  
   Conducted an in-depth analysis of COVID-19 data to visualize the spread, recovery, and mortality rates across different regions. Built interactive dashboards using **Power BI** to provide real-time insights on the pandemic.
 
 ## 📊 GitHub Stats
