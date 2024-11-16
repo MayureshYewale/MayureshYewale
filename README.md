@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer w
 
 ## 🚀 Projects
 
-- **[Alexa Sentiment Analysis (NLP)](https://github.com/yourusername/alexa-sentiment-analysis)**  
+- **[Alexa Sentiment Analysis (NLP)](https://github.com/MayureshYewale/Alexa-Sentiment-Analysis)**  
   Built a sentiment analysis model using NLP techniques to analyze user reviews and provide insights for enhancing Alexa's customer experience. The project uses **Python**, **spaCy**, and **Scikit-learn** for sentiment classification.
 
 - **[Card Fraud Detection (Machine Learning)](https://github.com/yourusername/card-fraud-detection)**  
