@@ -1,68 +1,48 @@
-![Header Image](https://github.com/yourusername/yourrepository/blob/main/header-image.png) <!-- Replace with your header image -->
+👋 Hello, I'm MAYURESH YEWALE — Cybersecurity & Network Engineer 🔐🌐
 
-# Hello, I'm Mayuresh Yewale👋
+🧠 Passionate about defending systems, building secure networks, and understanding how every bit flows through the wire.
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and NLP Engineer with a knack for turning data into actionable insights and building cutting-edge NLP solutions.
+💼 What I Do
+🛡️ Cybersecurity
 
-## 🌟 About Me
+Ethical Hacking & Penetration Testing
+Tools: Burp Suite, Metasploit, Nmap, SQLMap, Wireshark, Hydra
 
-- 🔭 Currently working on innovative data science and NLP projects.
-- 🌱 Learning and experimenting with the latest machine learning and NLP techniques.
-- 💬 Ask me about Python, machine learning, natural language processing, and data visualization.
-- 📫 Reach me at [mayureshyewale01@gmail.com](mailto:mayureshyewale01@gmail.com).
+Web Application Security
+Focus on OWASP Top 10, XSS, CSRF, SSRF, LFI/RFI, and more.
 
-## 🛠️ Technologies & Tools
+Digital Forensics & Incident Response (DFIR)
+Skills in log analysis, memory dumps, and malware reverse engineering.
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://spacy.io" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/spacy.png" alt="spaCy" width="40" height="40"/>
-  </a>
-</p>
+Blue & Red Team Ops
+Defense (SIEM, EDR) + Offense (payload development, lateral movement)
 
-## 🚀 Projects
+🌐 Network Engineering
 
-- **[Alexa Sentiment Analysis (NLP)](https://github.com/MayureshYewale/Alexa-Sentiment-Analysis)**  
-  Built a sentiment analysis model using NLP techniques to analyze user reviews and provide insights for enhancing Alexa's customer experience. The project uses **Python**, **spaCy**, and **Scikit-learn** for sentiment classification.
+Network Design & Implementation
+Cisco, Juniper, MikroTik — LAN/WAN setups, VLANs, ACLs, NAT, and routing protocols (EIGRP, OSPF, BGP)
 
-- **[Card Fraud Detection (Machine Learning)](https://github.com/yourusername/card-fraud-detection)**  
-  Developed a machine learning model to detect fraudulent credit card transactions. The project involved data preprocessing, feature selection, and building a classification model using **Scikit-learn** and **XGBoost**, achieving high accuracy in fraud detection.
+Firewall & VPN Configuration
+pfSense, FortiGate, Cisco ASA — setting up site-to-site and remote-access VPNs
 
-- **[COVID-19 Analysis (Power BI)](https://github.com/MayureshYewale/Covid-19)**  
-  Conducted an in-depth analysis of COVID-19 data to visualize the spread, recovery, and mortality rates across different regions. Built interactive dashboards using **Power BI** to provide real-time insights on the pandemic.
+Monitoring & Troubleshooting
+Tools: Wireshark, SolarWinds, PRTG, Nagios, NetFlow, TCPDump
 
-## 📊 GitHub Stats
+Cloud Networking
+AWS VPCs, Azure NSGs, and hybrid cloud setups
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
+⚙️ Tools & Technologies
+- Programming: Python, Bash, PowerShell
+- Networking: Cisco IOS, JunOS, pfSense, Ubiquiti
+- Platforms: Kali Linux, Parrot OS, Windows Server, Ubuntu
+- Security: Splunk, Suricata, Snort, Wazuh, OSSEC
+- Labs: GNS3, Cisco Packet Tracer, Eve-NG, TryHackMe, Hack The Box
 
-## 🌐 Connect with Me
+🧠 Learning & Certifications
+- CCNA (NETTECH INDIA)
+- CEH (NETTECH INDIA)
+- 🎓 Currently expanding skills in Cloud Security & Automation
 
-- [LinkedIn](https://www.linkedin.com/in/mayuresh-yewale/)
-- [Twitter](https://twitter.com/yourusername)
-- [Kaggle](https://www.kaggle.com/mayureshyewale)
-- [Medium](https://medium.com/@yourusername)
-
-## 💡 Support My Work
-
-If you appreciate my work, consider supporting me with a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"> 
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50">
-</a>
+📫 Connect With Me
+- 💼 LinkedIn: linkedin.com/in/mayuresh-yewale
+- 💌 Email: mayureshyewale01@gmail.com
